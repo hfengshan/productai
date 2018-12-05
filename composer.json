@@ -4,6 +4,7 @@
     "type": "library",
     "license": "GPL-3.0+",
     "keywords": ["ProductAI","API"],
+     "minimum-stability": "dev",
     "authors": [
         {
             "name": "hfengshan",
